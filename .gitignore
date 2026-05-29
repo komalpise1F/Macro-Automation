@@ -146,3 +146,7 @@ dist
 playwright-report/
 
 test-results/
+
+.chrome-profile
+.chrome-tmp
+client_secret_820899452401-objhpf9jj34j92stnaj65bbpeq2ag5j9.apps.googleusercontent.com.json

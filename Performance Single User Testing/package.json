@@ -1,0 +1,18 @@
+{
+  "name": "perf-automation",
+  "version": "1.0.0",
+  "description": "Website Performance Automation - Lighthouse + Google Sheets",
+  "main": "measure.js",
+  "scripts": {
+    "start": "node measure.js",
+    "measure": "node measure.js"
+  },
+  "dependencies": {
+    "chrome-launcher": "^1.2.1",
+    "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
+    "express": "^5.2.1",
+    "googleapis": "^171.4.0",
+    "lighthouse": "^13.1.0"
+  }
+}

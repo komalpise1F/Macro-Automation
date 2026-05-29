@@ -1,0 +1,211 @@
+[
+  {
+    "url": "https://indiamacroindicators.co.in/",
+    "timestamp": "16/4/2026, 9:40:07 am",
+    "pageLoadTime": 3456.7396,
+    "fcp": 435.5917500000008,
+    "lcp": 812.9215000000022,
+    "speedIndex": 1742.190732521008,
+    "cls": 0.0765,
+    "tbt": 226.99999999999886,
+    "pageName": "Home Page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/1-finance-macroeconomic-index",
+    "timestamp": "16/4/2026, 9:40:24 am",
+    "pageLoadTime": 17901.091200000807,
+    "fcp": 518.9517500000001,
+    "lcp": 3003.3879999999863,
+    "speedIndex": 990.2336104839796,
+    "cls": 0.039715,
+    "tbt": 151.4999999999991,
+    "pageName": "1FMI Graph landing page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/subindices",
+    "timestamp": "16/4/2026, 9:40:46 am",
+    "pageLoadTime": 8135.728650000003,
+    "fcp": 1022.3865000000009,
+    "lcp": 4487.132500000003,
+    "speedIndex": 3661.942584238828,
+    "cls": 0.069095,
+    "tbt": 559.9999999999995,
+    "pageName": "Subindices Landing page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/subindices/services-sector-activity-index",
+    "timestamp": "16/4/2026, 9:41:03 am",
+    "pageLoadTime": 15789.946699999298,
+    "fcp": 372.30399999999986,
+    "lcp": 1195.3989999999997,
+    "speedIndex": 813.4778463605167,
+    "cls": 0.055485,
+    "tbt": 341.5,
+    "pageName": "Subindex graph page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/indias-economic-dashboard",
+    "timestamp": "16/4/2026, 9:41:18 am",
+    "pageLoadTime": 1761.9456,
+    "fcp": 267.07800000000003,
+    "lcp": 787.8304999999998,
+    "speedIndex": 715.8441582242045,
+    "cls": 0.00014,
+    "tbt": 26.499999999999886,
+    "pageName": "Economic Indicators Dashboard"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/economic-indicators",
+    "timestamp": "16/4/2026, 9:41:32 am",
+    "pageLoadTime": 3773.843650000006,
+    "fcp": 180.31500000000034,
+    "lcp": 622.9080000000026,
+    "speedIndex": 398.80844001412413,
+    "cls": 0.23924,
+    "tbt": 12,
+    "pageName": "Economic Indicators listing page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/economic-indicators/category/services-sector-activity",
+    "timestamp": "16/4/2026, 9:41:46 am",
+    "pageLoadTime": 2254.6125500000016,
+    "fcp": 377.48524999999984,
+    "lcp": 1213.6154999999997,
+    "speedIndex": 939.9299321616558,
+    "cls": 0.239371,
+    "tbt": 24,
+    "pageName": "Economic Indicator graph details page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/key-economic-indicators",
+    "timestamp": "16/4/2026, 9:42:06 am",
+    "pageLoadTime": 8498.05785000004,
+    "fcp": 438.6477500000001,
+    "lcp": 8098.74800000004,
+    "speedIndex": 2493.34826575487,
+    "cls": 0.774003,
+    "tbt": 974.1114999999918,
+    "pageName": "Key Economic Indicators listing page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/key-economic-indicators/g-sec-yield-curve",
+    "timestamp": "16/4/2026, 9:42:20 am",
+    "pageLoadTime": 3120.9470999999994,
+    "fcp": 257.44724999999994,
+    "lcp": 1701.6975000000002,
+    "speedIndex": 1022.6366575697539,
+    "cls": 0.207352,
+    "tbt": 31,
+    "pageName": "Key Economic Indicators graph details page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/global-market-pe-ratios",
+    "timestamp": "16/4/2026, 9:42:35 am",
+    "pageLoadTime": 1468.8493500000004,
+    "fcp": 152.46900000000008,
+    "lcp": 294.2690000000006,
+    "speedIndex": 393.9363078202982,
+    "cls": 0,
+    "tbt": 86,
+    "pageName": "Global Market P/E Ratios"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/resources/blogs?page=1",
+    "timestamp": "16/4/2026, 9:42:47 am",
+    "pageLoadTime": 2329.50175,
+    "fcp": 186.00349999999995,
+    "lcp": 1437.2414999999987,
+    "speedIndex": 684.357436278815,
+    "cls": 0,
+    "tbt": 17.5,
+    "pageName": "Reports and Resources"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/resources/blogs/the-global-rate-cut-cycle-is-over",
+    "timestamp": "16/4/2026, 9:43:02 am",
+    "pageLoadTime": 6905.959100000012,
+    "fcp": 353.9037499999999,
+    "lcp": 4523.936500000011,
+    "speedIndex": 941.0242682051372,
+    "cls": 0.005689,
+    "tbt": 12,
+    "pageName": "Blogs details page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/authors/sanya-agarwal",
+    "timestamp": "16/4/2026, 9:43:17 am",
+    "pageLoadTime": 2148.128625,
+    "fcp": 244.34499999999994,
+    "lcp": 888.8792500000004,
+    "speedIndex": 447.75335456980906,
+    "cls": 0,
+    "tbt": 12.5,
+    "pageName": "Author details page"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/asset-allocator",
+    "timestamp": "16/4/2026, 9:43:32 am",
+    "pageLoadTime": 1705.719,
+    "fcp": 219.815,
+    "lcp": 1253.6650000000002,
+    "speedIndex": 870.9690747632178,
+    "cls": 0.10789699999999999,
+    "tbt": 62,
+    "pageName": "Asset Allocator"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/global-economic-outlook-report",
+    "timestamp": "16/4/2026, 9:43:42 am",
+    "pageLoadTime": 1884.572150000001,
+    "fcp": 249.68375,
+    "lcp": 490.0185000000001,
+    "speedIndex": 485.7718800024986,
+    "cls": 0,
+    "tbt": 19.500000000000227,
+    "pageName": "Global Economic Outlook 2026"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/term-of-use",
+    "timestamp": "16/4/2026, 9:43:52 am",
+    "pageLoadTime": 1453.4740500000014,
+    "fcp": 178.88500000000022,
+    "lcp": 546.5690000000011,
+    "speedIndex": 413.47901812871544,
+    "cls": 0.008513,
+    "tbt": 10.5,
+    "pageName": "Terms of Use"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/privacy-policy",
+    "timestamp": "16/4/2026, 9:44:04 am",
+    "pageLoadTime": 1056.6425000000013,
+    "fcp": 196.01950000000016,
+    "lcp": 751.6275000000007,
+    "speedIndex": 369.1772353350858,
+    "cls": 0,
+    "tbt": 19,
+    "pageName": "Privacy Policy"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/site-map",
+    "timestamp": "16/4/2026, 9:44:17 am",
+    "pageLoadTime": 1774.292224999996,
+    "fcp": 157.6132499999999,
+    "lcp": 356.64849999999905,
+    "speedIndex": 318.91438470342786,
+    "cls": 0.00008,
+    "tbt": 50.000000000000114,
+    "pageName": "Sitemap"
+  },
+  {
+    "url": "https://indiamacroindicators.co.in/authors",
+    "timestamp": "16/4/2026, 9:44:30 am",
+    "pageLoadTime": 2453.3561000000027,
+    "fcp": 254.32825,
+    "lcp": 1336.2050000000027,
+    "speedIndex": 810.8895674062355,
+    "cls": 0,
+    "tbt": 12.5,
+    "pageName": "Authors Landing Page"
+  }
+]
