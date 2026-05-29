@@ -4,7 +4,7 @@
 
 const { test, expect } = require('@playwright/test');
 
-// ─── Constants ───────────────────────────────────────────────────────────────
+// ─── Constants ─────────────────────────────────────────────────────────────── 
 
 const BASE_URL        = 'https://indiamacroindicators.co.in';
 const AUTHOR_LIST_URL = `${BASE_URL}/authors`;
